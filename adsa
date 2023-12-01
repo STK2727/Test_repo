@@ -1,0 +1,23 @@
+[33mcommit b7148d6266954a34e3ca0de42f28aadf866332db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: My Name <me@example.com>
+Date:   Fri Dec 1 12:10:47 2023 +0500
+
+    add README
+
+[33mcommit 69651f839ad0d1ecc9eef51d2b2ff349dd28dd67[m
+Author: My Name <me@example.com>
+Date:   Fri Dec 1 11:56:39 2023 +0500
+
+    add h2 title
+
+[33mcommit 00c3c83c05574c9e777565e5c03e2d4a3f0b5db2[m
+Author: My Name <me@example.com>
+Date:   Fri Dec 1 11:48:46 2023 +0500
+
+    add title
+
+[33mcommit 250c3375f796909a66a8fe3911a3e69d607bc1dc[m
+Author: My Name <me@example.com>
+Date:   Fri Dec 1 11:46:33 2023 +0500
+
+    init project
